@@ -1,0 +1,20 @@
+{
+  "name": "Iced Tea",
+  "description": "This NFT features a pixelated image of Iced Tea, a popular Indonesian street food from the Lamongan region, Iced Tea (Es Teh). The Iced Tea is a beloved drink.",
+  "attributes": [
+    {
+      "trait_type": "Course Type",
+      "value": "Drink"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Pixelated, Cartoon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    }
+  ],
+  "image": "ipfs://QmRsYYBLbqj3sktR7hkcMs45XKJ3Y4n8LgYfLdNVM7i7n5/5.jpg"
+}
+

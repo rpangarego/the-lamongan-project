@@ -1,0 +1,20 @@
+{
+  "name": "Plain Rice",
+  "description": "This NFT features a pixelated image of plain rice, a popular Indonesian street food from the Lamongan region, plain rice. The Plain Rice is a beloved dish.",
+  "attributes": [
+    {
+      "trait_type": "Course Type",
+      "value": "Main, Side"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Pixelated, Cartoon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    }
+  ],
+  "image": "ipfs://QmRsYYBLbqj3sktR7hkcMs45XKJ3Y4n8LgYfLdNVM7i7n5/4.jpg"
+}
+

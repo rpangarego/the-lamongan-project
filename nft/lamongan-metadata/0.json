@@ -1,0 +1,20 @@
+{
+  "name": "Chicken",
+  "description": "This NFT features a pixelated image of Chicken, a popular Indonesian street food from the Lamongan region, Pecel Ayam. The Pecel Ayam is a beloved dish.",
+  "attributes": [
+    {
+      "trait_type": "Course Type",
+      "value": "Main"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Pixelated, Cartoon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    }
+  ],
+  "image": "ipfs://QmRsYYBLbqj3sktR7hkcMs45XKJ3Y4n8LgYfLdNVM7i7n5/0.jpg"
+}
+

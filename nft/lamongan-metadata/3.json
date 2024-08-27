@@ -1,0 +1,20 @@
+{
+  "name": "Fried Rice",
+  "description": "This NFT features a pixelated image of Chicken, a popular Indonesian street food from the Lamongan region, Fried Rice. The Fried Rice is a beloved dish.",
+  "attributes": [
+    {
+      "trait_type": "Course Type",
+      "value": "Main"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Pixelated, Cartoon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    }
+  ],
+  "image": "ipfs://QmRsYYBLbqj3sktR7hkcMs45XKJ3Y4n8LgYfLdNVM7i7n5/3.jpg"
+}
+

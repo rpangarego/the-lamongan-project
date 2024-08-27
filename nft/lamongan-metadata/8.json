@@ -1,0 +1,20 @@
+{
+  "name": "Tahu",
+  "description": "This NFT features a pixelated image of Tahu (Tofu), a popular Indonesian street food from the Lamongan region, Tahu. The Tahu is a beloved side dish.",
+  "attributes": [
+    {
+      "trait_type": "Course Type",
+      "value": "Sidedish"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Pixelated, Cartoon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    }
+  ],
+  "image": "ipfs://QmRsYYBLbqj3sktR7hkcMs45XKJ3Y4n8LgYfLdNVM7i7n5/8.jpg"
+}
+

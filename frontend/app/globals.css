@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Anonymous Pro", "serif";
+  color: #323232 !important;
+}
+
+:root {
+  --lamongan-red: #f91804;
+  --lamongan-yellow: #f9fd05;
+  --lamongan-orange: #f5a123;
+  --lamongan-green: #36c939;
+  --lamongan-blue: #0008cc;
+  --lamongan-purple: #e307dd;
+}
+
+.container {
+  @apply w-5/6 m-auto min-h-[90px];
+}
+
+.nav-container {
+  @apply w-5/6 h-[90px] m-auto;
+}
+
+.btn {
+  @apply py-[0.4rem] px-3 bg-white rounded-md;
+  position: relative;
+}
+
+/* solid gradient button */
+.btn-primary {
+  /* @apply text-white bg-gradient-to-br from-[var(--lamongan-red)] to-[var(--lamongan-orange)] hover:shadow-md transition; */
+  @apply text-orange-600 border-2 border-orange-600 font-semibold;
+}
+
+.btn-wallet-connected {
+  @apply flex flex-row items-center gap-3 border-2 border-[var(--lamongan-red)] py-1 px-3 rounded-full;
+}
+
+/* gradient on hover */
+/* .btn-primary {
+  @apply text-[var(--lamongan-red)] border-2 border-[var(--lamongan-orange)] hover:bg-gradient-to-br hover:from-[var(--lamongan-red)] hover:to-[var(--lamongan-orange)] hover:text-white hover:shadow-md transition;
+} */
+
+.gradient-text {
+  padding: 10px;
+  background: linear-gradient(
+    to bottom,
+    var(--lamongan-red),
+    var(--lamongan-orange)
+  );
+  -webkit-background-clip: text; /* For WebKit browsers */
+  -webkit-text-fill-color: transparent; /* For WebKit browsers */
+  background-clip: text; /* For non-WebKit browsers */
+  color: transparent; /* Fallback color */
+}
